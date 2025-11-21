@@ -4,7 +4,7 @@ Welcome to my MongoDB Learning repository!
 This repo contains my notes, commands, and practice projects as I begin learning MongoDB, a NoSQL database.
 
 ## 🚀 What I’m Learning
-- Introduction to MongoDB
+- Introduction to MongoDB 
 - MongoDB Installation & Setup
 - Databases, Collections & Documents
 - CRUD Operations
