@@ -12,7 +12,7 @@ This repo contains my notes, commands, and practice projects as I begin learning
 - Update Operators
 - MongoDB Compass
 - Aggregation Pipeline
-- Indexes
+- Indexes 
 
 ## 🛠️ Tools Used
 - MongoDB Community Server
